@@ -1,0 +1,26 @@
+//
+//  PrefixHeader.pch
+//  TestCoreRenFilter
+//
+//  Created by WangYanbin on 2017/4/17.
+//  Copyright © 2017年 WangYanbin. All rights reserved.
+//
+
+#ifndef PrefixHeader_pch
+#define PrefixHeader_pch
+
+//第三方库导入
+#import "GPUImage.h"      //滤镜库
+
+#define MAS_SHORTHAND     //masonry
+#import "Masonry.h"
+
+#import "MBProgressHUD.h" //提示类
+
+//配置头文件的导入
+#import "ConstantsConfig.h"
+
+//类别文件头的引入
+#import "CategoryHeader.h"
+
+#endif

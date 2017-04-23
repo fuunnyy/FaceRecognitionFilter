@@ -1,0 +1,18 @@
+PODS:
+  - GPUImage (0.1.7)
+  - Masonry (1.0.2)
+  - MBProgressHUD (1.0.0)
+
+DEPENDENCIES:
+  - GPUImage
+  - Masonry
+  - MBProgressHUD
+
+SPEC CHECKSUMS:
+  GPUImage: 733a5f0fab92df9de1c37ba9df520a833ccb406d
+  Masonry: 7c429b56da9d4ee0bbb3ed77a5ea710d6a5df39e
+  MBProgressHUD: 4890f671c94e8a0f3cf959aa731e9de2f036d71a
+
+PODFILE CHECKSUM: 74f60b43963db35d3c40fe4f1daf661de0a019aa
+
+COCOAPODS: 1.2.1
